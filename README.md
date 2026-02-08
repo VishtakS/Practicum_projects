@@ -4,3 +4,5 @@
 [__Games__](Games/Games_final.ipynb) - проект-исследование факторов, влияющих на успешность компьютеоных игр для планирования рекламных кампаний. Проверка гипотез. _Стек: Pandas, Matplotlib, Seaborn._
 
 [__GoFast__](GoFast/_gofast_final_ipynb.ipynb) - анализ данных пользователей сервиса аренды самокатов "GoFast" для проверки гипотез, способствующих росту бизнеса. _Стек: Pandas, Matplotlib, Seaborn, Numpy._
+
+[__Gym_churn__](Gym_churn/Gym_churn_prediction.ipynb) - проект, предлагающий варианты решения проблемы оттока клиентов сети фитнес-центров. _Стек: Pandas, Matplotlib, Seaborn, Numpy, ML._
